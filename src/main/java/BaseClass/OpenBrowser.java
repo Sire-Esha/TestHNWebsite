@@ -9,7 +9,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
-
+//Test
 public class OpenBrowser {
     public static WebDriver driver;
     public static void NavToWebsite(String url) throws IOException {
