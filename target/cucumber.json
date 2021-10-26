@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-10-26T08:24:16.078Z",
+        "start_timestamp": "2021-10-26T08:29:11.625Z",
         "line": 2,
         "name": "Website Navigation",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 9416059100,
+              "duration": 7571014000,
               "status": "passed"
             },
             "line": 3,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 102465500,
+              "duration": 85183800,
               "status": "passed"
             },
             "line": 4,
