@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="19.203">
+    <testcase classname="Navigate to Website" name="Website Navigation" time="19.028">
+        <system-out><![CDATA[Given Navigate to Website and Assert........................................passed
+Then Navigate to Account Screen.............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
