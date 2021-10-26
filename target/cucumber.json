@@ -1,0 +1,48 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-26T05:47:47.057Z",
+        "line": 2,
+        "name": "Website Navigation",
+        "description": "",
+        "id": "navigate-to-website;website-navigation",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 18856345900,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Navigate to Website and Assert",
+            "match": {
+              "location": "StepDefinitions.SD01_NavigateToHNWebsite.navigate_to_website_and_assert()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 97058600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Navigate to Account Screen",
+            "match": {
+              "location": "StepDefinitions.SD01_NavigateToHNWebsite.navigate_to_account_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Navigate to Website",
+    "description": "",
+    "id": "navigate-to-website",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/FeatureFiles/FF01_NavigateToHNWebsite.feature",
+    "tags": []
+  }
+]
