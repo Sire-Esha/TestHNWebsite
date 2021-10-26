@@ -1,4 +1,5 @@
 PlayPen\ProjectDirectory.class
 HomePage\AT01_NavigateToHNWebsite.class
+Runner\TestRunner.class
 PlayPen\BaseClassVerify.class
 StepDefinitions\SD01_NavigateToHNWebsite.class
